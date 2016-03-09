@@ -1,0 +1,18 @@
+{
+  "name": "mondo-food-hygiene-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "moment": "^2.12.0",
+    "request": "^2.69.0",
+    "string_score": "^0.1.22"
+  }
+}
